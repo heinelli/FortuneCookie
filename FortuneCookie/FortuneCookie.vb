@@ -1,4 +1,8 @@
-﻿
+﻿'Elliot Heiner
+'RCET0265
+'Fall 2021
+'Fortune Cookie
+'https://github.com/heinelli/FortuneCookie.git
 Module FortuneCookie
 
     Sub Main()
